@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Mortals（feat. ローラ・ブレーム）",
+  "base_artist": "Warriyo",
+  "createdAt": "2026-02-21T03:51:47.483693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mortals (feat. Laura Brehm)",
+      "artist": "Warriyo",
+      "has_synced": true,
+      "path": "select/01_Mortals_(feat._Laura_Brehm)_Warriyo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mortals (feat. Laura Brehm)",
+      "artist": "Warriyo",
+      "has_synced": true,
+      "path": "select/02_Mortals_(feat._Laura_Brehm)_Warriyo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mortals (feat. Laura Brehm) [NCS Release]",
+      "artist": "Warriyo",
+      "has_synced": true,
+      "path": "select/03_Mortals_(feat._Laura_Brehm)_[NCS_Release]_Warriyo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Warriyo - Mortals (feat. Laura Brehm) [NCS Release]",
+      "artist": "Warriyo - Mortals (feat. Laura Brehm) [NCS Release]",
+      "has_synced": true,
+      "path": "select/04_Warriyo_-_Mortals_(feat._Laura_Brehm)_[NCS_Release]_Warriyo_-_Mortals_(feat._Laura_Brehm)_[NCS_Release].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mortals",
+      "artist": "Warriyo",
+      "has_synced": false,
+      "path": "select/pl_01_Mortals_Warriyo.txt"
+    }
+  ]
+}
